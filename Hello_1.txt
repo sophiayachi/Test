@@ -1,0 +1,2 @@
+print ('hellow world!')
+A=(1,2)
