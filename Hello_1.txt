@@ -1,0 +1,5 @@
+print ('hellow world!')
+A=[1,2]
+B=[3,4]
+c=A*B
+print(C)
